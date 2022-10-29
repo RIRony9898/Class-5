@@ -3,6 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+h3{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
 .nav-container{
     width: 100%;
     border: 1px solid black;
