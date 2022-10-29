@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-container{
+    width: 100%;
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+ul{
+    list-style: none;
+    width: 400px;
+    background-color: blueviolet;
+    margin: 0px auto;
+}
+li{
+    border: 1px solid white;
+    padding: 10px;
+    margin-bottom: 4px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: beige;
+}
